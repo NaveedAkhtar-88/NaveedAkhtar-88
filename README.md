@@ -72,29 +72,58 @@ Larsen & Toubro Infotech.
 
 Small tools I built around my work in networking and AI evaluation. Each one runs in the browser with no sign-in.
 
-**[IPv4 Subnet Calculator](https://naveedakhtar-88.github.io/apps/subnet.html)**
+**[IPv4 Subnet Calculator](https://naveedakhtar-88.github.io/subnet-calculator/)**
 
 Takes an address and prefix, or an address and dotted mask, and returns the network, broadcast, wildcard, usable host range and class. Shows the network and host bits in binary and splits the block into equal smaller subnets.
 
 `CIDR` `VLSM` `Binary view` `Vanilla JavaScript`
 
-[Live demo](https://naveedakhtar-88.github.io/apps/subnet.html)
+[Live demo](https://naveedakhtar-88.github.io/subnet-calculator/)
 
-**[LLM Response Judge](https://naveedakhtar-88.github.io/apps/llm-judge.html)**
+**[LLM Response Judge](https://naveedakhtar-88.github.io/llm-response-judge/)**
 
 A side-by-side rubric for two model answers: weighted scores for accuracy, instruction following, completeness, relevance, clarity and tone, plus flags for hard problems. It checks that the overall preference agrees with the scores and counts the words in the justification.
 
 `Rubric scoring` `Preference check` `Vanilla JavaScript`
 
-[Live demo](https://naveedakhtar-88.github.io/apps/llm-judge.html)
+[Live demo](https://naveedakhtar-88.github.io/llm-response-judge/)
 
-**[Search Relevance Rater](https://naveedakhtar-88.github.io/apps/search-rater.html)**
+**[Search Relevance Rater](https://naveedakhtar-88.github.io/search-relevance-rater/)**
 
 Rate the results for a query from 0 to 4, then reorder them and watch DCG, NDCG and precision change against the ideal order. Built to show why ranking position matters in search quality evaluation.
 
 `DCG` `NDCG` `Precision` `Vanilla JavaScript`
 
-[Live demo](https://naveedakhtar-88.github.io/apps/search-rater.html)
+[Live demo](https://naveedakhtar-88.github.io/search-relevance-rater/)
+
+
+## Games
+
+Multiplayer games I built so you can practice the same skills with friends. Open the link, create a room, and share the 4 letter code. Up to 8 players, no sign-in.
+
+**[Subnet Showdown](https://naveedakhtar-88.github.io/subnet-showdown/)**
+
+A quick-fire CCNA subnetting race. Everyone gets the same question at the same moment, and faster correct answers score more.
+
+`WebRTC` `PeerJS` `CCNA` `Vanilla JavaScript`
+
+[Play now](https://naveedakhtar-88.github.io/subnet-showdown/)
+
+**[Judge Duel](https://naveedakhtar-88.github.io/judge-duel/)**
+
+Two AI answers, one better. Pick the one a careful rater would prefer, then see the reason and how many players agreed.
+
+`LLM evaluation` `Accuracy` `Safety` `Tone`
+
+[Play now](https://naveedakhtar-88.github.io/judge-duel/)
+
+**[Rank the Results](https://naveedakhtar-88.github.io/rank-the-results/)**
+
+Put four search results in the right order. Your ranking is scored with NDCG against expert ratings, the same metric search teams use.
+
+`NDCG` `Relevance` `Ranking`
+
+[Play now](https://naveedakhtar-88.github.io/rank-the-results/)
 
 ## Languages
 
