@@ -1,4 +1,4 @@
-![Circuit board with a processor chip labeled LLM](image.jpg)
+![Naveed Akhtar - Networking Project Manager and AI and LLM Evaluator, with a processor chip labeled LLM](banner.png)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-naveedakhtar--88.github.io-2ec4b6?style=for-the-badge)](https://naveedakhtar-88.github.io)
 [![Email](https://img.shields.io/badge/Email-naveed290888%40gmail.com-0a1822?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naveed290888@gmail.com)
