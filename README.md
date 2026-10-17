@@ -1,8 +1,8 @@
 ![Naveed Akhtar - Networking Project Manager and AI and LLM Evaluator, with a processor chip labeled LLM](banner.png)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-naveedakhtar--88.github.io-2ec4b6?style=for-the-badge)](https://naveedakhtar-88.github.io)
-[![Email](https://img.shields.io/badge/Email-naveed290888%40gmail.com-0a1822?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naveed290888@gmail.com)
-[![Open to work](https://img.shields.io/badge/Open%20to%20work-Remote-2ea44f?style=for-the-badge)](mailto:naveed290888@gmail.com)
+<p>
+<a href="https://naveedakhtar-88.github.io"><img src="btn-portfolio.png" height="44" alt="Portfolio: naveedakhtar-88.github.io"></a>&nbsp;&nbsp;<a href="mailto:naveed290888@gmail.com"><img src="btn-email.png" height="44" alt="Email: naveed290888@gmail.com"></a>&nbsp;&nbsp;<img src="btn-open.png" height="44" alt="Open to work: remote contract and freelance">
+</p>
 
 Networking project manager with nearly ten years in IT, now working independently on AI data and LLM evaluation. Based in Malegaon, Maharashtra, India. I work remotely, to written guidelines and deadlines, in English, Hindi, Marathi and Urdu, with Tamil, Telugu and Gujarati at a professional level.
 
@@ -55,24 +55,7 @@ Larsen & Toubro Infotech.
 
 ## Tech stack
 
-**Networking:**
-![Virtualized Networks](https://img.shields.io/badge/Virtualized%20Networks-0a1822?style=flat-square)
-![Network Automation](https://img.shields.io/badge/Network%20Automation-0a1822?style=flat-square)
-![Cloud and DB Management](https://img.shields.io/badge/Cloud%20and%20DB%20Management-0a1822?style=flat-square)
-![Cisco CCNA](https://img.shields.io/badge/Cisco%20CCNA-1ba0d7?style=flat-square)
-
-**AI data and evaluation:**
-![Data annotation](https://img.shields.io/badge/Data%20annotation-2ec4b6?style=flat-square)
-![Model training](https://img.shields.io/badge/Model%20training-2ec4b6?style=flat-square)
-![Prompt engineering](https://img.shields.io/badge/Prompt%20engineering-2ec4b6?style=flat-square)
-![Response labeling](https://img.shields.io/badge/Response%20labeling-2ec4b6?style=flat-square)
-![Response judgment](https://img.shields.io/badge/Response%20judgment-2ec4b6?style=flat-square)
-![Search relevance](https://img.shields.io/badge/Search%20relevance-2ec4b6?style=flat-square)
-
-**Language data:**
-![Localization](https://img.shields.io/badge/Localization-ff7a3d?style=flat-square)
-![Transcription](https://img.shields.io/badge/Transcription-ff7a3d?style=flat-square)
-![Audio localization](https://img.shields.io/badge/Audio%20localization-ff7a3d?style=flat-square)
+<img src="stack.png" width="100%" alt="Tech stack. Networking: Virtualized Networks, Network Automation, Cloud and DB Management, Cisco CCNA. AI data and evaluation: Data annotation, Model training, Prompt engineering, Response labeling, Response judgment, Search relevance. Language data: Localization, Transcription, Audio localization.">
 
 ## Core competencies
 
@@ -96,5 +79,6 @@ Larsen & Toubro Infotech.
 
 Open to remote contract and freelance work in AI data, LLM evaluation and search quality. Email is the fastest way to reach me.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-naveedakhtar--88.github.io-2ec4b6?style=for-the-badge)](https://naveedakhtar-88.github.io)
-[![Email](https://img.shields.io/badge/Email-naveed290888%40gmail.com-0a1822?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naveed290888@gmail.com)
+<p>
+<a href="https://naveedakhtar-88.github.io"><img src="btn-portfolio.png" height="44" alt="Portfolio: naveedakhtar-88.github.io"></a>&nbsp;&nbsp;<a href="mailto:naveed290888@gmail.com"><img src="btn-email.png" height="44" alt="Email: naveed290888@gmail.com"></a>
+</p>
