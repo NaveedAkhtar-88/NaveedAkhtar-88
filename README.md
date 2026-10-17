@@ -68,6 +68,25 @@ Larsen & Toubro Infotech.
 | Linguistics and multimedia | Linguistic Data Specialist, Localization and Transcription Specialist, Audio Localization Specialist |
 | Search algorithm quality | Search Engine Algorithm Evaluator, Information Retrieval Analyst, Digital Advertisement Quality Analyst |
 
+## Apps
+
+Small tools I built around my work in networking and AI evaluation. Each one runs in the browser with no sign-in.
+
+**[IPv4 Subnet Calculator](https://naveedakhtar-88.github.io/apps/subnet.html)**
+Takes an address and prefix, or an address and dotted mask, and returns the network, broadcast, wildcard, usable host range and class. Shows the network and host bits in binary and splits the block into equal smaller subnets.
+`CIDR` `VLSM` `Binary view` `Vanilla JavaScript`
+[Live demo](https://naveedakhtar-88.github.io/apps/subnet.html)
+
+**[LLM Response Judge](https://naveedakhtar-88.github.io/apps/llm-judge.html)**
+A side-by-side rubric for two model answers: weighted scores for accuracy, instruction following, completeness, relevance, clarity and tone, plus flags for hard problems. It checks that the overall preference agrees with the scores and counts the words in the justification.
+`Rubric scoring` `Preference check` `Vanilla JavaScript`
+[Live demo](https://naveedakhtar-88.github.io/apps/llm-judge.html)
+
+**[Search Relevance Rater](https://naveedakhtar-88.github.io/apps/search-rater.html)**
+Rate the results for a query from 0 to 4, then reorder them and watch DCG, NDCG and precision change against the ideal order. Built to show why ranking position matters in search quality evaluation.
+`DCG` `NDCG` `Precision` `Vanilla JavaScript`
+[Live demo](https://naveedakhtar-88.github.io/apps/search-rater.html)
+
 ## Languages
 
 | Level | Languages |
