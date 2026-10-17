@@ -101,6 +101,14 @@ Rate the results for a query from 0 to 4, then reorder them and watch DCG, NDCG 
 
 Multiplayer games I built so you can practice the same skills with friends. Open the link, create a room, and share the 4 letter code. Up to 8 players, no sign-in.
 
+**[Circuit Rush](https://naveedakhtar-88.github.io/circuit-rush/)**
+
+Real-time highway racing for up to 8 players. Three tracks, nitro and EMP pickups, and a points championship. Add bots if your friends are offline.
+
+`WebRTC` `PeerJS` `Racing` `Vanilla JavaScript`
+
+[Play now](https://naveedakhtar-88.github.io/circuit-rush/)
+
 **[Subnet Showdown](https://naveedakhtar-88.github.io/subnet-showdown/)**
 
 A quick-fire CCNA subnetting race. Everyone gets the same question at the same moment, and faster correct answers score more.
@@ -135,6 +143,8 @@ Put four search results in the right order. Your ranking is scored with NDCG aga
 ---
 
 Open to remote contract and freelance work in AI data, LLM evaluation and search quality. Email is the fastest way to reach me.
+
+[LinkedIn](https://www.linkedin.com/in/naveed-akhtar-799760424/)
 
 <p>
 <a href="https://naveedakhtar-88.github.io"><img src="btn-portfolio.png" height="44" alt="Portfolio: naveedakhtar-88.github.io"></a>&nbsp;&nbsp;<a href="mailto:naveed290888@gmail.com"><img src="btn-email.png" height="44" alt="Email: naveed290888@gmail.com"></a>
